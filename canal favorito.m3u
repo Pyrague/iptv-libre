@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 ,telemundo 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+
+#EXTINF:-1 ,canal de las estrella
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 , CINEMA
+https://sc.id-tv.kz/Cinema.m3u8
+
+#EXTINF:-1 ,canal 13 argentina
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+
+
+#EXTINF:-1 ,TELEMILENIO SANTIAGO CHILE
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1 ,13 Prime
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+
+#EXTINF:-1 ,CDN Deportes
+http://free.fullspeed.tv/iptv-query?provider=universe&streaming-ip=https://playback.dacast.com/content/access?contentId=2c659e044a58572e056cceed234a70cb-live-f56d3109-2db5-9cea-8919-d572074daf59
+
+#EXTINF:-1 ,DT Play (Deporte Total)
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+
+#EXTINF:-1 ,Todo Deportes TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/tododeportesplus/
+
+#EXTINF:-1 ,HispanTV 
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 ,RT en Español/ Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 , IP NOTICIAS
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+
+#EXTINF:-1 ,fox 
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1673700290&st=utl9r9IcOZSGQpw57YgKGw
+#EXTINF:-1 ,
+#EXTINF:-1 ,
